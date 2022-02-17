@@ -1,0 +1,10 @@
+pandas
+requests
+beautifulsoup4
+lxml
+SQLAlchemy==1.3.12
+sqlalchemy-redshift==0.7.6
+psycopg2==2.8.4
+pygsheets
+slackclient
+tabulate
